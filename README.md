@@ -32,15 +32,8 @@ Breve descripción o resumen del proyecto.
 
 ¡No dudes en contactarme!
 
-- Correo electrónico: tu_correo_electronico@example.com
-- LinkedIn: [Tu Perfil de LinkedIn](url_de_tu_perfil_de_LinkedIn)
-- Sitio web: [Tu Sitio Web](url_de_tu_sitio_web)
+- LinkedIn: [sebastian-peña](https://www.linkedin.com/in/sebastian-pe%C3%B1a-5b6597271/)
 
-## Estadísticas del perfil
-
-[![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=tu_usuario_de_GitHub&show_icons=true&theme=radical)](url_de_tu_repositorio)
-
-## Contribuciones
 
 ¡Gracias por visitar mi perfil! Si encuentras útiles mis proyectos o tienes alguna sugerencia, ¡no dudes en abrir un issue o enviar una pull request!
 
