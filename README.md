@@ -17,7 +17,7 @@ AI assistants: Building and evaluating RAG apps combining LLM knowledge with dif
 improving the ability of AI to provide contextually timely and accurate responses, also working closely with
 cloud services.
 
-![Imagen del proyecto 1](Ai_assistant.png)
+![Imagen del proyecto 1](AI_assistant.png)
 
 ### [STDY MATHS](url_del_proyecto_2)
 
