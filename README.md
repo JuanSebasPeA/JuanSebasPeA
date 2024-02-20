@@ -1,24 +1,29 @@
-# Bienvenido a mi perfil de GitHub 👋
+# Welcome to my Github profile 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de tecnologías de la información. Este es mi repositorio especial de presentación, donde puedes encontrar información sobre mí y mis proyectos destacados.
+¡Hello! I am Sebastian, FullStack developer. 
+Highly proactive person with an innate passion for tackling challenges and finding effective solutions.
 
-## Sobre mí
+## About me
 
 ![Imagen de perfil](funnyMan.png)
 
-Soy un entusiasta de la tecnología con experiencia en desarrollo full stack. Me encanta aprender sobre nuevas tecnologías y crear soluciones innovadoras. En mi tiempo libre, disfruto contribuir a proyectos de código abierto y compartir conocimientos con la comunidad.
+I am a technology enthusiast with experience in full stack development. I love learning about new technologies and creating innovative solutions. In my free time, I enjoy contributing to open source projects and sharing knowledge with the community.
 
-## Proyectos destacados
+## Relevant projects
 
-### [Proyecto 1](url_del_proyecto_1)
+### [AI Assistants](url_del_proyecto_1)
 
-Breve descripción o resumen del proyecto.
+AI assistants: Building and evaluating RAG apps combining LLM knowledge with different data sets,
+improving the ability of AI to provide contextually timely and accurate responses, also working closely with
+cloud services.
 
 ![Imagen del proyecto 1](url_de_la_imagen_del_proyecto_1)
 
-### [Proyecto 2](url_del_proyecto_2)
+### [STDY MATHS](url_del_proyecto_2)
 
-Breve descripción o resumen del proyecto.
+STDY MATHS: Dynamic and interactive web application for learning and practice in the area of mathematics,
+with a personalized experience, challenges, skills and continuous progress for each user.
+Nextjs - Nodejs - MongoDB - Cloudinary - Aws Lambda
 
 ![Imagen del proyecto 2](url_de_la_imagen_del_proyecto_2)
 
