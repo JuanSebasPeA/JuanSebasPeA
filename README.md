@@ -17,7 +17,7 @@ AI assistants: Building and evaluating RAG apps combining LLM knowledge with dif
 improving the ability of AI to provide contextually timely and accurate responses, also working closely with
 cloud services.
 
-![Imagen del proyecto 1](url_de_la_imagen_del_proyecto_1)
+![Imagen del proyecto 1](Ai_assistant.png)
 
 ### [STDY MATHS](url_del_proyecto_2)
 
@@ -25,17 +25,15 @@ STDY MATHS: Dynamic and interactive web application for learning and practice in
 with a personalized experience, challenges, skills and continuous progress for each user.
 Nextjs - Nodejs - MongoDB - Cloudinary - Aws Lambda
 
-![Imagen del proyecto 2](url_de_la_imagen_del_proyecto_2)
+![Imagen del proyecto 2](stMathas.png)
 
-## Habilidades
+## Skills
 
-- Lenguajes de programación: JavaScript, Python, HTML, CSS, etc.
-- Frameworks: React, Node.js, Django, etc.
-- Herramientas: Git, Docker, VSCode, etc.
+- Programming languages: JavaScript, Python, Java.
+- Frameworks: React, Node.js, Django, Nextjs, etc.
+- Tools: Git, Docker, etc.
 
-## Contacto
-
-¡No dudes en contactarme!
+## Contact
 
 - LinkedIn: [sebastian-peña](https://www.linkedin.com/in/sebastian-pe%C3%B1a-5b6597271/)
 
