@@ -1,6 +1,8 @@
 # Welcome to my Github profile 👋
 
-![Imagen de fondo](flame-sign-in.gif)
+<div align="center">
+  <img src="flame-sign-in.gif" />
+</div>
 
 ¡Hello! I am Sebastian, FullStack developer. 
 Highly proactive person with an innate passion for tackling challenges and finding effective solutions.
