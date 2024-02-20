@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-![Imagen de perfil](url_de_tu_imagen_de_perfil)
+![Imagen de perfil](funnyMan.png)
 
 Soy un entusiasta de la tecnología con experiencia en desarrollo full stack. Me encanta aprender sobre nuevas tecnologías y crear soluciones innovadoras. En mi tiempo libre, disfruto contribuir a proyectos de código abierto y compartir conocimientos con la comunidad.
 
