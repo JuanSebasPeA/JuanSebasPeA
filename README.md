@@ -4,20 +4,21 @@
   <img src="flame-sign-in.gif" />
 </div>
 
-¡Hello! I am Sebastian, FullStack developer. 
+¡Hello! I am Sebastian, Cloud Solutions Architect with background as developer. 
 Highly proactive person with an innate passion for tackling challenges and finding effective solutions.
 
 ## About me
 
 ![Imagen de perfil](funnyMan.png)
 
-I am a technology enthusiast with experience in full stack development. I love learning about new technologies and creating innovative solutions. In my free time, I enjoy contributing to open source projects and sharing knowledge with the community.
+I am a technology enthusiast with experience in cloud and full stack development. I love learning about new technologies and creating innovative solutions. In my free time, I enjoy contributing to open source projects and sharing knowledge with the community.
 
 ## Relevant projects
 
 ### [AI Assistants](url_del_proyecto_1)
 
-AI assistants: Building and evaluating RAG apps combining LLM knowledge with different data sets,
+- Robust Cloud Architectures for web apps, data analitycs, AI projects and Hybrid Architectures.
+- AI assistants: Building and evaluating RAG apps combining LLM knowledge with different data sets,
 improving the ability of AI to provide contextually timely and accurate responses, also working closely with
 cloud services.
 
@@ -34,14 +35,13 @@ Nextjs - Nodejs - MongoDB - Cloudinary - Aws Lambda
 ## Skills
 
 - Programming languages: JavaScript, Python, Java.
-- Frameworks: React, Node.js, Django, Nextjs, etc.
-- Tools: Git, Docker, etc.
+- Frameworks: React, Node.js, Django, Nextjs, Flask, FastAPI, Langchain, Langgraph
+- Cloud: AWS, OCI, GCP, Azure
 
 ## Contact
 
-- LinkedIn: [sebastian-peña](https://www.linkedin.com/in/sebastian-pe%C3%B1a-5b6597271/)
+- LinkedIn: [sebastian-peña](https://www.linkedin.com/in/juan-sebastian-peña-angarita-5b6597271/)
 
 
-¡Gracias por visitar mi perfil! Si encuentras útiles mis proyectos o tienes alguna sugerencia, ¡no dudes en abrir un issue o enviar una pull request!
 
 
