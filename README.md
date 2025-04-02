@@ -22,15 +22,8 @@ I am a technology enthusiast with experience in cloud and full stack development
 improving the ability of AI to provide contextually timely and accurate responses, also working closely with
 cloud services.
 
-![Imagen del proyecto 1](AI_assistant.png)
 
-### [STDY MATHS](url_del_proyecto_2)
 
-STDY MATHS: Dynamic and interactive web application for learning and practice in the area of mathematics,
-with a personalized experience, challenges, skills and continuous progress for each user.
-Nextjs - Nodejs - MongoDB - Cloudinary - Aws Lambda
-
-![Imagen del proyecto 2](stMathas.png)
 
 ## Skills
 
